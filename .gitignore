@@ -1,0 +1,18 @@
+# Arquivos e diretórios do Composer
+/vendor/
+
+# Autoload gerado pelo Composer
+/vendor/autoload.php
+
+# Arquivo de configuração do Composer
+composer.lock
+
+# Diretório do build
+/build/
+
+# Logs e arquivos temporários
+/logs/
+/temp/
+
+# Arquivos de configuração locais
+.env
